@@ -1,0 +1,7 @@
+Order_Id,Customer,City,Bike,Price,Quantity,Order_ID
+1.0,Rahul,Mumbai,Ninja 300,300000,1,
+2.0,Amit,Pune,Duke 390,310000,1,
+3.0,Sneha,Delhi,Ninja 650,65000,1,
+4.0,Priya,Mumbai,Ninja 300,300000,2,
+5.0,Karan,Bangalore,R15,180000,1,
+,Mau,Mumbai,H2R,1200000000,1,6.0
